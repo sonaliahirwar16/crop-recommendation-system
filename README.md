@@ -22,4 +22,4 @@ Decision Tree, Random Forest, Support Vector Machine (SVM), Logistic Regression,
    pip install -r requirements.txt
 
 3. Run the application:
-   streamlit run app.py
+   streamlit run streamlit_app.py
