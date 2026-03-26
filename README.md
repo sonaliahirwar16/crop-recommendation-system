@@ -14,7 +14,7 @@ Decision Tree, Random Forest, Support Vector Machine (SVM), Logistic Regression,
 - Model training and evaluation  
 - Deployment using Streamlit
 
-##Screenshot
+## Screenshot
 <img width="1916" height="1074" alt="Screenshot 2025-04-13 221330" src="https://github.com/user-attachments/assets/ad3eca8a-c6c2-4f87-b906-5151f9867b7f" />
 
 
